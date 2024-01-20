@@ -1,9 +1,12 @@
 import "./App.scss";
+import Countdown from "./components/countdown/Countdown";
+import Product from "./components/product/Product";
 
 function App() {
   return (
     <div>
-      <h1>Hello World!!!</h1>
+      <Countdown />
+      <Product />
     </div>
   );
 }
