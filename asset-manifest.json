@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/8-React-Countdown-App/static/css/main.75787c1b.css",
+    "main.js": "/8-React-Countdown-App/static/js/main.96f8afcc.js",
+    "static/media/gown1.jpg": "/8-React-Countdown-App/static/media/gown1.1f0a857324b2f3727cb3.jpg",
+    "index.html": "/8-React-Countdown-App/index.html",
+    "main.75787c1b.css.map": "/8-React-Countdown-App/static/css/main.75787c1b.css.map",
+    "main.96f8afcc.js.map": "/8-React-Countdown-App/static/js/main.96f8afcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75787c1b.css",
+    "static/js/main.96f8afcc.js"
+  ]
+}
